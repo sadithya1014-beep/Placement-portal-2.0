@@ -99,7 +99,7 @@
 ## Author
 
 
-- Name: Sahil Sayyad
-- GitHub: <a><b>[https://github.com/Sahil-Sayyad](https://github.com/Sahil-Sayyad/Placement_Cell)</a></b>
+- Name: Adithya S
+- GitHub: <a><b>[https://github.com/sadithya1014-beep](https://github.com/sadithya1014-beep/Placement_Cell)</a></b>
 - Email: 
 - Website: 
